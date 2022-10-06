@@ -1,0 +1,1 @@
+this directory contains some demo html, css and js code to be committed to git.
